@@ -1,3 +1,3 @@
 # hello-github
 
-defect occured to branch "defect"
+defect occured to branch "defects"
